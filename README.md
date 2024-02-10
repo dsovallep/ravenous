@@ -1,2 +1,2 @@
 # ravenous
-sitio web de recomendación de restaurantes que permita a los usuarios buscar empresas locales en función de su ubicación y palabras clave. Utilizando una pila tecnológica que incluye HTML, CSS, JavaScript, React y la API de Yelp, creará una aplicación que replica la funcionalidad principal de Yelp.
+restaurant recommendation website that allows users to search for local businesses based on their location and keywords. Using a technology stack that includes HTML, CSS, JavaScript, React, and the Yelp API, you'll create an app that replicates Yelp's core functionality.
