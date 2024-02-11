@@ -1,3 +1,5 @@
+restaurant recommendation website that allows users to search for local businesses based on their location and keywords. Using a technology stack that includes HTML, CSS, JavaScript, React, and the Yelp API, you'll create an app that replicates Yelp's core functionality.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
